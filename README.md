@@ -1,6 +1,6 @@
 # Hi, I'm Domilson Gaspar! 👋
 
-Software Engineering enthusiast with 6 years of dedicated learning and hands-on practice. I specialize in building personal projects that bridge the gap between low-level logic in C and modern, scalable web interfaces.
+Software Developer with 6 years of dedicated learning and hands-on practice. I specialize in building personal projects that bridge the gap between low-level logic in C and modern, scalable web interfaces.
 
 ---
 
