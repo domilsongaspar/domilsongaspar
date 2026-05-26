@@ -23,8 +23,7 @@ Software Developer with 6 years of dedicated learning and hands-on practice. I s
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domilsongaspar&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domilsongaspar&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domilsongaspar&theme=tokyonight" />
 </p>
 
 ---
