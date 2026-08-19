@@ -5,7 +5,7 @@ Software Developer with 6 years of dedicated learning and hands-on practice. I s
 ---
 
 ### 🚀 About Me
-- 🎓 Aspiring Student focusing on Computer Engineering and Systems Development.
+- 🎓 Dedicated Computer Engineering & Systems Development Student.
 - 🏗️ 6 years of self-driven experience in embedded systems (Arduino) and Fullstack development.
 - ⚡ Committed to building a strong portfolio through clean, efficient, and well-documented code.
 
