@@ -29,16 +29,9 @@ Software Developer with 6 years of dedicated learning and hands-on practice. I s
 ## 🔥 Most Used Languages
 
 <!--START_LANGUAGE_STATS-->
-
-- **C** — 45.1%
-- **HTML** — 20.7%
-- **PHP** — 10.8%
-- **TypeScript** — 8.8%
-- **CSS** — 6.8%
-- **JavaScript** — 6.6%
-- **Makefile** — 1.0%
-- **Dockerfile** — 0.1%
-
+<p align="center">
+  <img src="./assets/languages.svg" alt="Most Used Languages" />
+</p>
 <!--END_LANGUAGE_STATS-->
 
 ![Snake animation](https://raw.githubusercontent.com/domilsongaspar/domilsongaspar/output/github-contribution-grid-snake.svg)
