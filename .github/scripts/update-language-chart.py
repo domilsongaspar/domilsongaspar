@@ -543,6 +543,57 @@ def generate_svg(languages):
 # Main
 # ---------------------------------------------------------
 
+def update_readme():
+    start_marker = "<!--START_LANGUAGE_STATS-->"
+    end_marker = "<!--END_LANGUAGE_STATS-->"
+
+    with open(
+        "README.md",
+        "r",
+        encoding="utf-8"
+    ) as file:
+        readme = file.read()
+
+    start = readme.find(start_marker)
+    end = readme.find(end_marker)
+
+    if start == -1:
+        raise RuntimeError(
+            "START_LANGUAGE_STATS marker not found in README.md"
+        )
+
+    if end == -1:
+        raise RuntimeError(
+            "END_LANGUAGE_STATS marker not found in README.md"
+        )
+
+    content = f"""
+<p align="center">
+  <img
+    src="./assets/languages.svg"
+    alt="Most Used Languages"
+  />
+</p>
+"""
+
+    content_start = start + len(start_marker)
+
+    new_readme = (
+        readme[:content_start]
+        + content
+        + readme[end:]
+    )
+
+    with open(
+        "README.md",
+        "w",
+        encoding="utf-8"
+    ) as file:
+        file.write(new_readme)
+
+    print("✅ README updated successfully!")
+
+
 def main():
 
     print(
@@ -580,12 +631,13 @@ def main():
         "w",
         encoding="utf-8"
     ) as file:
-
         file.write(svg)
 
     print(
-        f"\n✅ Chart generated: {OUTPUT_FILE}"
+        f"✅ Chart generated: {OUTPUT_FILE}"
     )
+
+    update_readme()
 
 
 if __name__ == "__main__":
