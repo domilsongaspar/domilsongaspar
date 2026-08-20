@@ -26,8 +26,6 @@ Software Developer with 6 years of dedicated learning and hands-on practice. I s
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domilsongaspar&theme=tokyonight" />
 </p>
 
-## 🔥 Most Used Languages
-
 <!--START_LANGUAGE_STATS-->
 <p align="center">
   <img
