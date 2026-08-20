@@ -26,6 +26,8 @@ Software Developer with 6 years of dedicated learning and hands-on practice. I s
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domilsongaspar&theme=tokyonight" />
 </p>
 
+![Snake animation]((https://github.com/domilsongaspar/domilsongaspar/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 📫 Let's Connect!
