@@ -8,9 +8,6 @@ TOKEN = os.environ["GITHUB_TOKEN"]
 
 README_PATH = "README.md"
 
-TECH_START = "<!--START_TECH_STACK-->"
-TECH_END = "<!--END_TECH_STACK-->"
-
 LANG_START = "<!--START_LANGUAGE_STATS-->"
 LANG_END = "<!--END_LANGUAGE_STATS-->"
 
@@ -705,21 +702,12 @@ def main():
         repositories
     )
 
-    technologies = calculate_technologies(
-        repositories
-    )
-
     print("\n💻 Linguagens:")
+
     for language, amount in languages.most_common():
-        print(f"  {language}: {amount}")
-
-    print("\n🛠️ Tecnologias:")
-    for technology, count in technologies.most_common():
-        print(f"  {technology}: {count}")
-
-    tech_stack = generate_tech_stack(
-        technologies
-    )
+        print(
+            f"  {language}: {amount}"
+        )
 
     language_stats = generate_language_stats(
         languages
@@ -731,13 +719,6 @@ def main():
         encoding="utf-8",
     ) as file:
         readme = file.read()
-
-    readme = replace_section(
-        readme,
-        TECH_START,
-        TECH_END,
-        tech_stack,
-    )
 
     readme = replace_section(
         readme,
@@ -753,7 +734,9 @@ def main():
     ) as file:
         file.write(readme)
 
-    print("\n✅ README atualizado com sucesso!")
+    print(
+        "\n✅ Language statistics updated successfully!"
+    )
 
 
 if __name__ == "__main__":
