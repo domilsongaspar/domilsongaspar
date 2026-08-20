@@ -2,8 +2,8 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width="760"
-  height="430"
-  viewBox="0 0 760 430"
+  height="540"
+  viewBox="0 0 760 540"
 >
 
 <defs>
@@ -90,7 +90,7 @@
 
 <rect
   width="760"
-  height="430"
+  height="540"
   rx="18"
   fill="#0d1117"
   filter="url(#shadow)"
@@ -144,7 +144,7 @@
   class="bar"
   x="200"
   y="80"
-  width="196.30049723659832"
+  width="193.8882075726373"
   height="10"
   rx="5"
   fill="#555555"
@@ -155,7 +155,7 @@
   y="90"
   class="percentage"
 >
-  45.7%
+  45.1%
 </text>
 
 <circle
@@ -198,7 +198,7 @@
   class="bar"
   x="200"
   y="135"
-  width="90.20303339704157"
+  width="89.09454998418832"
   height="10"
   rx="5"
   fill="#E34F26"
@@ -209,7 +209,7 @@
   y="145"
   class="percentage"
 >
-  21.0%
+  20.7%
 </text>
 
 <circle
@@ -252,7 +252,7 @@
   class="bar"
   x="200"
   y="190"
-  width="46.77834805000088"
+  width="46.2035001658298"
   height="10"
   rx="5"
   fill="#777BB4"
@@ -263,7 +263,7 @@
   y="200"
   class="percentage"
 >
-  10.9%
+  10.7%
 </text>
 
 <circle
@@ -306,7 +306,7 @@
   class="bar"
   x="200"
   y="245"
-  width="38.30478826935504"
+  width="37.83406992618646"
   height="10"
   rx="5"
   fill="#3178C6"
@@ -317,7 +317,7 @@
   y="255"
   class="percentage"
 >
-  8.9%
+  8.8%
 </text>
 
 <circle
@@ -360,7 +360,7 @@
   class="bar"
   x="200"
   y="300"
-  width="29.576031126581565"
+  width="29.212578383506493"
   height="10"
   rx="5"
   fill="#1572B6"
@@ -371,7 +371,7 @@
   y="310"
   class="percentage"
 >
-  6.9%
+  6.8%
 </text>
 
 <circle
@@ -414,7 +414,7 @@
   class="bar"
   x="200"
   y="355"
-  width="28.837301920422625"
+  width="28.48292724313735"
   height="10"
   rx="5"
   fill="#F7DF1E"
@@ -425,6 +425,114 @@
   y="365"
   class="percentage"
 >
-  6.7%
+  6.6%
+</text>
+
+<circle
+  cx="34"
+  cy="422"
+  r="16"
+  fill="#239120"
+/>
+
+<text
+  x="34"
+  y="427"
+  text-anchor="middle"
+  font-family="Arial, sans-serif"
+  font-size="9"
+  font-weight="700"
+  fill="#ffffff"
+>
+  C#
+</text>
+
+<text
+  x="60"
+  y="427"
+  class="language"
+>
+  C#
+</text>
+
+<rect
+  x="200"
+  y="410"
+  width="430"
+  height="10"
+  rx="5"
+  fill="#21262d"
+/>
+
+<rect
+  class="bar"
+  x="200"
+  y="410"
+  width="4.343082583242706"
+  height="10"
+  rx="5"
+  fill="#239120"
+/>
+
+<text
+  x="645"
+  y="420"
+  class="percentage"
+>
+  1.0%
+</text>
+
+<circle
+  cx="34"
+  cy="477"
+  r="16"
+  fill="#00599C"
+/>
+
+<text
+  x="34"
+  y="482"
+  text-anchor="middle"
+  font-family="Arial, sans-serif"
+  font-size="9"
+  font-weight="700"
+  fill="#ffffff"
+>
+  C++
+</text>
+
+<text
+  x="60"
+  y="482"
+  class="language"
+>
+  C++
+</text>
+
+<rect
+  x="200"
+  y="465"
+  width="430"
+  height="10"
+  rx="5"
+  fill="#21262d"
+/>
+
+<rect
+  class="bar"
+  x="200"
+  y="465"
+  width="0.9410841412715676"
+  height="10"
+  rx="5"
+  fill="#00599C"
+/>
+
+<text
+  x="645"
+  y="475"
+  class="percentage"
+>
+  0.2%
 </text>
 </svg>
