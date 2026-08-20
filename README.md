@@ -26,39 +26,9 @@ Software Developer with 6 years of dedicated learning and hands-on practice. I s
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domilsongaspar&theme=tokyonight" />
 </p>
 
-## 🛠️ Technologies
-
-<!--START_TECH_STACK-->
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🚀 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-<!--END_TECH_STACK-->
-
 ## 🔥 Most Used Languages
 
 <!--START_LANGUAGE_STATS-->
-
-- **C** — 45.1%
-- **HTML** — 20.7%
-- **PHP** — 10.8%
-- **TypeScript** — 8.8%
-- **CSS** — 6.8%
-- **JavaScript** — 6.6%
-- **Makefile** — 1.0%
-- **Dockerfile** — 0.1%
-
 <!--END_LANGUAGE_STATS-->
 
 ![Snake animation](https://raw.githubusercontent.com/domilsongaspar/domilsongaspar/output/github-contribution-grid-snake.svg)
