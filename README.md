@@ -27,7 +27,7 @@ Software Developer with 6 years of dedicated learning and hands-on practice. I s
 </p>
 
 <!--START_LANGUAGE_STATS-->
-<p align="center">
+<p align="left">
   <img
     src="./assets/languages.svg"
     alt="Most Used Languages"
