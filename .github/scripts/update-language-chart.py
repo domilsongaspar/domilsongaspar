@@ -568,7 +568,7 @@ def update_readme():
         )
 
     content = f"""
-<p align="center">
+<p align="left">
   <img
     src="./assets/languages.svg"
     alt="Most Used Languages"
