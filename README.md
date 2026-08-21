@@ -27,16 +27,12 @@ Software Developer with 6 years of dedicated learning and hands-on practice. I s
 </p>
 
 <!--START_LANGUAGE_STATS-->
-
-- **C** — 44.6%
-- **HTML** — 20.5%
-- **PHP** — 10.6%
-- **TypeScript** — 8.7%
-- **CSS** — 6.7%
-- **JavaScript** — 6.6%
-- **C#** — 1.0%
-- **Makefile** — 1.0%
-
+<p align="left">
+  <img
+    src="./assets/languages.svg"
+    alt="Most Used Languages"
+  />
+</p>
 <!--END_LANGUAGE_STATS-->
 
 ![Snake animation](https://raw.githubusercontent.com/domilsongaspar/domilsongaspar/output/github-contribution-grid-snake.svg)
